@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm a french student currently learning Computer Science in the University of Technologies of Belfort-Montbéliard, Belfort, France.
 
-I am passionated by several fields of Computer Science and new technologies, such as Data Science or Software Architecture. 
+I am passionate by several fields of Computer Science and new technologies, such as Data Science or Software Architecture. 
 I also have a great interest for finance and the stock market, in which new technologies play a huge role nowadays.
 
 <div align="center">
