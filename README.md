@@ -29,3 +29,4 @@ I also have a great interest for finance and the stock market, in which new tech
 </div>
 
 ----
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timothewt&hide=css,scss,html&theme=tokyonight)
