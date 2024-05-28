@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm a french student currently learning Computer Science in the University of Technology of Belfort-Montbéliard, Belfort, France.
 
-I am passionate about Computer Science and new technologies, particularly Artificial Intelligence (Deep Reinforcement Learning). 
+I am passionate about Computer Science and new technologies, particularly Artificial Intelligence (Deep Learning, Deep Graph Learning, Deep Reinforcement Learning). 
 I also have a great interest for finance and the stock market, in which new technologies play a huge role nowadays.
 
 <div align="center">
