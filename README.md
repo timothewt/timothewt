@@ -20,5 +20,3 @@ I am also greatly interested in finance and the stock market, in which new techn
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   </div>
 </div>
-
-----
