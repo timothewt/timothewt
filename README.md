@@ -1,7 +1,7 @@
-### Hi there 👋, I'm a french student currently learning Computer Science in the University of Technology of Belfort-Montbéliard, Belfort, France.
+### Hi there 👋, I'm a French student currently learning Computer Science at the University of Technology of Belfort-Montbéliard, Belfort, France.
 
-I am passionate about Computer Science and new technologies, particularly Artificial Intelligence (Deep Learning, Deep Graph Learning, Deep Reinforcement Learning). 
-I am also greatly interested in finance and the stock market, in which new technologies play a huge role nowadays.
+I am passionate about Computer Science and new technologies, particularly Artificial Intelligence (Deep Learning, Deep Graph Learning, and Deep Reinforcement Learning). 
+I am also greatly interested in finance and the stock market, in which new technologies play a huge role.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/timothewatteau/">
