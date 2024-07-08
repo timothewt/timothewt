@@ -4,7 +4,7 @@ I am passionate about Computer Science and new technologies, particularly Artifi
 I am also greatly interested in finance and the stock market, in which new technologies play a huge role.
 
 - 🎯 ***Open to work*** 💼
-    - **Seeking Quantitative Finance Internship** ‍I'm actively seeking a quantitative finance internship for Spring 2025, as an end-of-studies project, feel free to reach out for projects or opportunities!
+    - **Seeking Quantitative Finance Internship** ‍I'm actively seeking an end-of-studies internship in Quantitative Finance for Spring 2025, feel free to reach out for projects or opportunities!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/timothewatteau/">
