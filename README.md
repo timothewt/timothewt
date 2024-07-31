@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm a French engineering student currently learning Computer Science at the University of Technology of Belfort-Montbéliard, Belfort, France.
 
 I am passionate about Computer Science and new technologies, particularly Artificial Intelligence (Deep Learning, Deep Graph Learning, and Deep Reinforcement Learning). 
-I am also greatly interested in finance and the stock market, in which new technologies play a huge role.
+I am also greatly interested in quantitative finance and the stock market.
 
 - 🎯 ***Open to work*** 💼
     - **Seeking a Quantitative Finance Internship** ‍I'm actively seeking an end-of-studies internship in Quantitative Finance for Spring 2025, feel free to reach out for projects or opportunities!
