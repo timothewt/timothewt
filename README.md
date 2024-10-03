@@ -3,8 +3,6 @@
 I am passionate about Computer Science and new technologies, particularly Artificial Intelligence (Deep Learning, Deep Graph Learning, and Deep Reinforcement Learning). 
 I am also greatly interested in quantitative finance and the stock market.
 
-- 🎯 ***Open to work*** 💼
-    - **Seeking a Quantitative Finance Internship** ‍I'm actively seeking an end-of-studies internship in Quantitative Finance for Spring 2025, feel free to reach out for projects or opportunities!
 -----
 <div align="center">
   <div align="inline">
