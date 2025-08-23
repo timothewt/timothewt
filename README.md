@@ -4,7 +4,9 @@ I'm Timothé, a French **Algorithm Engineer** based in Lausanne, Switzerland.
 I’m passionate about **Computer Science** and cutting-edge technologies, with a strong focus on:  
 - **Artificial Intelligence** (Deep Learning, Graph Learning, Reinforcement Learning)  
 - **Robust Software Engineering**
-- **Efficient algorithms & data processing**  
+- **Efficient algorithms & data processing**
+
+[https://timothewatteau.com/](https://timothewatteau.com/)
 
 ---
 
