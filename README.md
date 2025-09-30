@@ -7,6 +7,7 @@ I’m passionate about **Computer Science** and cutting-edge technologies, with 
 - **Efficient algorithms & data processing**
 
 [https://timothewatteau.com/](https://timothewatteau.com/)
+
 GitLab: [https://gitlab.com/timothewt](https://gitlab.com/timothewt)
 
 ---
